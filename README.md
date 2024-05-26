@@ -11,7 +11,7 @@ LeftoverLogic is an Android application that helps users make the most out of th
 
 ## Screenshots
 
-![LoginScreen](https://github.com/samarth9702/LeftoverLogic/assets/138648292/542deaca-530a-4d6a-9bac-618ede9c1120)
+![LoginScreen](https://github.com/samarth9702/LeftoverLogic/assets/138648292/542deaca-530a-4d6a-9bac-618ede9c1120 =200x400) 
 ![Main Screen](https://github.com/samarth9702/LeftoverLogic/assets/138648292/822b4598-ba4d-46c1-a096-ed1910effe66)
 ![Recipe Suggestor](https://github.com/samarth9702/LeftoverLogic/assets/138648292/977d96cd-8b7c-4910-8971-1c7ed33bbeee)
 ![Result](https://github.com/samarth9702/LeftoverLogic/assets/138648292/1823be4b-edfb-47c5-a87a-5ad5e10d84a9)
