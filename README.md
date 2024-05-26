@@ -11,15 +11,25 @@ LeftoverLogic is an Android application that helps users make the most out of th
 
 ## Screenshots
 
-**LoginScreen**
+**LoginScreen** <br/>
 <img src="https://github.com/samarth9702/LeftoverLogic/assets/138648292/542deaca-530a-4d6a-9bac-618ede9c1120" width="200" height="400">
+<br/>
 **Main Screen**
+<br/>
 <img src="https://github.com/samarth9702/LeftoverLogic/assets/138648292/822b4598-ba4d-46c1-a096-ed1910effe66" width="200" height="400">
+<br/>
 **Recipe Suggestor**
+<br/>
 <img src="https://github.com/samarth9702/LeftoverLogic/assets/138648292/977d96cd-8b7c-4910-8971-1c7ed33bbeee" width="200" height="400">
-**Result**<img src="https://github.com/samarth9702/LeftoverLogic/assets/138648292/1823be4b-edfb-47c5-a87a-5ad5e10d84a9" width="200" height="400">
-**LeftoverLogicGPT Screen**<img src="https://github.com/samarth9702/LeftoverLogic/assets/138648292/63fd5d23-7e1b-4b2e-a12c-5a4b8cddb395" width="200" height="400">
-
+<br/>
+**Result**
+<br/>
+<img src="https://github.com/samarth9702/LeftoverLogic/assets/138648292/1823be4b-edfb-47c5-a87a-5ad5e10d84a9" width="200" height="400">
+<br/>
+**LeftoverLogicGPT Screen**
+<br/>
+<img src="https://github.com/samarth9702/LeftoverLogic/assets/138648292/63fd5d23-7e1b-4b2e-a12c-5a4b8cddb395" width="200" height="400">
+<br/>
 
 ## Installation
 
