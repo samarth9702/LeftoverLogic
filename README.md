@@ -11,7 +11,12 @@ LeftoverLogic is an Android application that helps users make the most out of th
 
 ## Screenshots
 
-*Include some screenshots of your app here*
+![LoginScreen](https://github.com/samarth9702/LeftoverLogic/assets/138648292/542deaca-530a-4d6a-9bac-618ede9c1120)
+![Main Screen](https://github.com/samarth9702/LeftoverLogic/assets/138648292/822b4598-ba4d-46c1-a096-ed1910effe66)
+![Recipe Suggestor](https://github.com/samarth9702/LeftoverLogic/assets/138648292/977d96cd-8b7c-4910-8971-1c7ed33bbeee)
+![Result](https://github.com/samarth9702/LeftoverLogic/assets/138648292/1823be4b-edfb-47c5-a87a-5ad5e10d84a9)
+![LeftoverLogicGPT Screen](https://github.com/samarth9702/LeftoverLogic/assets/138648292/63fd5d23-7e1b-4b2e-a12c-5a4b8cddb395)
+
 
 ## Installation
 
@@ -24,7 +29,7 @@ LeftoverLogic is an Android application that helps users make the most out of th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/leftoverlogic.git
+   git clone https://github.com/samarth9702/LeftoverLogic.git
    ```
 
 2. Open the project in Android Studio.
