@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "321593646174",
+    "project_id": "leftoverlogic-f4872",
+    "storage_bucket": "leftoverlogic-f4872.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321593646174:android:3c100044135f5d6a4028cf",
+        "android_client_info": {
+          "package_name": "com.example.leftoverlogic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSCTM9Pynl2AjLepgn8G-UEVgPy9abcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

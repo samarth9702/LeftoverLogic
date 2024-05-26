@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mint_green">#A8E6CF</color>
+    <color name="coral">#FF8A65</color>
+    <color name="creamy_white">#FAE1CE</color>
+    <color name="dark_gray">#4E4E4E</color>
+    <color name="soft_black">#333333</color>
+    <color name="light_mint">#E0F7FA</color>
+    <color name="soft_white">#FFFFFF</color>
+</resources>

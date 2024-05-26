@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".RecipeSuggesterActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/creamy_white"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:src="@drawable/logo"
+        android:contentDescription="App Logo"
+        android:layout_marginBottom="24dp"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        app:boxStrokeColor="@color/dark_gray"
+        app:hintTextColor="@color/dark_gray">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/ingredients"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Ingredients"
+            android:textColor="@color/black"
+            android:textColorHint="@color/dark_gray"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        app:boxStrokeColor="@color/dark_gray"
+        app:hintTextColor="@color/dark_gray">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/dietary_restrictions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Dietary Restrictions"
+            android:textColor="@color/black"
+            android:textColorHint="@color/dark_gray"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        app:boxStrokeColor="@color/dark_gray"
+        app:hintTextColor="@color/dark_gray">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/cuisine_type"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Cuisine Type"
+            android:textColor="@color/black"
+            android:textColorHint="@color/dark_gray"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        app:boxStrokeColor="@color/dark_gray"
+        app:hintTextColor="@color/dark_gray">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/meal_type"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Meal Type"
+            android:textColor="@color/black"
+            android:textColorHint="@color/dark_gray"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        app:boxStrokeColor="@color/dark_gray"
+        app:hintTextColor="@color/dark_gray">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/allergen_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Allergen Information"
+            android:textColor="@color/black"
+            android:textColorHint="@color/dark_gray"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <Button
+        android:id="@+id/show_recipe_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Suggest Recipe"
+        android:textColor="@color/black"
+        android:layout_marginTop="16dp"/>
+
+</LinearLayout>

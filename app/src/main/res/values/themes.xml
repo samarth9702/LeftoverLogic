@@ -1,0 +1,41 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LeftoverLogic" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/mint_green</item>
+        <item name="colorPrimaryDark">@color/mint_green</item>
+        <item name="colorAccent">@color/coral</item>
+
+        <!-- Customize your theme here -->
+        <item name="android:colorBackground">@color/light_mint</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:buttonStyle">@style/MyButtonStyle</item>
+        <item name="android:editTextStyle">@style/MyEditTextStyle</item>
+        <item name="android:textViewStyle">@style/MyTextViewStyle</item>
+    </style>
+
+    <!-- Button style -->
+    <style name="MyButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:backgroundTint">@color/mint_green</item>
+        <item name="android:textColor">@color/soft_white</item>
+    </style>
+
+    <!-- EditText style -->
+    <style name="MyEditTextStyle" parent="Widget.AppCompat.EditText">
+        <item name="android:backgroundTint">@color/creamy_white</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorHint">@color/dark_gray</item>
+    </style>
+
+    <!-- Toolbar style -->
+    <style name="MyToolbarStyle" parent="Widget.AppCompat.Toolbar">
+        <item name="android:background">@color/mint_green</item>
+        <item name="android:titleTextColor">@color/white</item>
+    </style>
+
+    <!-- TextView style -->
+    <style name="MyTextViewStyle" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="Theme.LeftoverLogic" parent="Base.Theme.LeftoverLogic" />
+</resources>
