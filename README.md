@@ -35,7 +35,7 @@ LeftoverLogic is an Android application that helps users make the most out of th
 
 4. Set up your API URL in the `RetrofitClient` class:
    ```java
-   private static final String BASE_URL = "https://model82-production-2a9d.up.railway.app";
+   private static final String BASE_URL = "YOUR_MODEL_URL";
    ```
 
 5. Run the project on your Android device or emulator.
