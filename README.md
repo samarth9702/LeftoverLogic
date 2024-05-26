@@ -61,26 +61,6 @@ LeftoverLogic is an Android application that helps users make the most out of th
 
 - View a recipe and tap the "Share" button to share it with your friends via other apps.
 
-## API
-
-The app uses a custom API to get recipe suggestions. The API endpoint is configured in the `RetrofitClient` class.
-
-### Request Example
-
-```json
-{
-    "userMessage": "I have some leftover food ingredients and I'd like to create a delicious meal out of them. Can you suggest a recipe using the following ingredients? Please include step-by-step instructions. Ingredients: Cabbage, carrot, potato. Preference: Veg",
-    "chatHistory": []
-}
-```
-
-### Response Example
-
-```json
-{
-    "message": "Here's a simple and tasty recipe for a Cabbage, Carrot, and Potato Stir-Fry: ..."
-}
-```
 
 ## Contributing
 
