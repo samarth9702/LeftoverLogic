@@ -1,6 +1,6 @@
 # LeftoverLogic
 
-LeftoverLogic is an Android application that helps users make the most out of their leftover food ingredients by suggesting recipes based on the ingredients they have. The app also features a chat interface where users can interact with a bot (powered by your custom API) to get personalized recipe suggestions.
+LeftoverLogic is an Android application that helps users make the most out of their leftover food ingredients by suggesting recipes based on the ingredients they have. The app also features a chat interface where users can interact with a bot (powered by LLama3) to get personalized recipe suggestions.
 
 ## Features
 
